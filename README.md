@@ -1,6 +1,6 @@
 # Multilinguality as Sense Adaptation
 
-This repository contains code for our paper **Multilinguality as Sense Adaptation**.
+This repository contains code for our paper [**Multilinguality as Sense Adaptation**](https://arxiv.org/abs/2601.10310).
 
 ## Quick Navigation
 - [Data Preparation (OPUS + HF Mix)](#data-preparation-opus--hf-mix)
