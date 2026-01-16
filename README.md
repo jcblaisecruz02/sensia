@@ -98,6 +98,7 @@ python run_adaptation.py \
 	--wandb_run_name <run_name> \
 	--seed 1234
 ```
+Models are also available [in HuggingFace](https://hf.co/collections/jcblaise/multilinguality-as-sense-adaptation) if you don't want to make your own.
 
 ## Benchmarking
 Evaluate FLORES-200 perplexity with `run_flores_ppl.py`. Choose the FLORES language tag, adjust `--max_length`, and point `--model_path` at a local or hub checkpoint.
